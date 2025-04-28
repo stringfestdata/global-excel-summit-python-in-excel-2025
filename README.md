@@ -1,9 +1,3 @@
-# xlgs-pie
+Resources for Global Excel Summit Masterclass, "Python in Excel for Enhanced Data Analytics"
 
-Python in Excel resources
-
-1. First steps
-2. From that's hard to that's easy -- data analysis
-3. From that's hard to that's easy -- data viz 
-4. Copilot advanced editor
-5. Other stuff you can do/openpyxl 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stringfestdata/global-excel-summit-python-in-excel-2025/HEAD)
